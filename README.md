@@ -50,7 +50,7 @@
 Система в реальном времени рассчитывает суммарный балл на основе анкеты и сравнивает его с порогом отсечения (**Cut-off Score = 105**):
 
 *Пример принятия решения по заемщику :*
-![Интерфейс приложения]([https://githubusercontent.com](https://github.com/adiletchyn-alt/bank-credit-scoring-scorecard/blob/main/screenshot.png.png))
+![Интерфейс приложения](https://github.com/adiletchyn-alt/bank-credit-scoring-scorecard/blob/main/screenshot.png.png))
 
 
 
